@@ -9,7 +9,9 @@ void spelen() {
 	// System.out.println(Arrays.toString(zeeb));
 
 	zeex.vaarruimte();
+	zeex.schieten(2);
 	}
+
 }
 
 
