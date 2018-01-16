@@ -1,11 +1,6 @@
-import java.util.Arrays;
 
 class Zee {
 	
-	Zee zeeb = new Zee();
-
-//	int[] zeeb = {0,0,1,1,0,0,5,5,5,5,5,0};
-
 void vaarruimte (){
 	
 	
