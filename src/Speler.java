@@ -1,0 +1,17 @@
+import java.util.Arrays;
+
+class Speler {
+	
+void spelen() {
+	Zee zeex = new Zee ();
+	
+
+	System.out.println("Speler gaat zee maken");
+	// System.out.println(Arrays.toString(zeeb));
+
+	zeex.vaarruimte();
+	}
+}
+
+
+
